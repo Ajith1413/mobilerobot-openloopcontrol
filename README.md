@@ -30,6 +30,9 @@ To develop a python control code to move the mobilerobot along the predefined pa
 ```python
     ## Write your code here
 
+ #Developed by: AJITH KUMAR A
+ #Register Number: 23002150   
+
 from robomaster import robot
 import time
 from robomaster import camera
